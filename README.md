@@ -6,7 +6,6 @@ Before vehicle installation, the entire Formula 1 electrical ecosystem was simul
 
 https://github.com/user-attachments/assets/e1cc9b8a-6858-4fcb-8a61-8f3a0b3daf95
 
-![Bench Test Simulation](tre.mp4)
 
 ### Phase 2: Final Vehicle Integration (Ferrari F1 3-Seater)
 The finalized HMI dashboard mounted directly into the red carbon-fiber cockpit structure of the F1 Three-Seater. The software successfully processed synchronized acoustic and visual telemetry lines directly inside the live monocoque environment.
@@ -17,7 +16,6 @@ https://github.com/user-attachments/assets/7bb6f76d-4890-41ed-9dd3-2629af5a18a5
 
 <video src="f3seater.mp4" width="100%" controls></video>
 
-![Final Vehicle Integration](f3seater.mp4)
 
 # High-Performance Automotive HMI & Edge Telemetry Prototype
 ## R&D Project | Formula 1 Three-Seater Custom Dashboard (2012 - 2014)
