@@ -3,7 +3,7 @@
 ### Phase 1: Laboratory Bench Integration & ECU Simulation
 Before vehicle installation, the entire Formula 1 electrical ecosystem was simulated on a workbench. An Arduino board was programmed to forge CAN-bus packets, recreating dynamic engine loads, RPM sweeps, and rapid gear shifts (up to 280+ km/h) to stress-test the rendering latency of the HMI software.
 
-<video src="https://github.com/albertopoli80/FErrari-3-seater-showcase/blob/main/tre.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/albertopoli80/FErrari-3-seater-showcase/blob/main/tre.mp4" width="100%" controls></video>
 
 ![Bench Test Simulation](tre.mp4)
 
