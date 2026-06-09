@@ -3,12 +3,17 @@
 ### Phase 1: Laboratory Bench Integration & ECU Simulation
 Before vehicle installation, the entire Formula 1 electrical ecosystem was simulated on a workbench. An Arduino board was programmed to forge CAN-bus packets, recreating dynamic engine loads, RPM sweeps, and rapid gear shifts (up to 280+ km/h) to stress-test the rendering latency of the HMI software.
 
-<video src="https://raw.githubusercontent.com/albertopoli80/FErrari-3-seater-showcase/blob/main/tre.mp4" width="100%" controls></video>
+
+https://github.com/user-attachments/assets/e1cc9b8a-6858-4fcb-8a61-8f3a0b3daf95
 
 ![Bench Test Simulation](tre.mp4)
 
 ### Phase 2: Final Vehicle Integration (Ferrari F1 3-Seater)
 The finalized HMI dashboard mounted directly into the red carbon-fiber cockpit structure of the F1 Three-Seater. The software successfully processed synchronized acoustic and visual telemetry lines directly inside the live monocoque environment.
+
+
+https://github.com/user-attachments/assets/7bb6f76d-4890-41ed-9dd3-2629af5a18a5
+
 
 <video src="f3seater.mp4" width="100%" controls></video>
 
